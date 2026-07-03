@@ -1,0 +1,6 @@
+{
+  "name": "Healing With Quran",
+  "description": "Healing Hearts Through the Light of Quran. Modern Tafseer Class Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
